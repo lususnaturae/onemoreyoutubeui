@@ -12,3 +12,4 @@ Lecture 1-33
 	> npm install
 	> npm start
 ```
+NOTE!! rename src/example.index.js to index.js and insert you own youtube apikey to API_KEY const
